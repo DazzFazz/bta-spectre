@@ -1,0 +1,19 @@
+{
+  "name": "bta-spectre",
+  "version": "1.0.0",
+  "description": "Shared Brown Thomas and Arnotts CSS Framework",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DazzFazz/bta-spectre.git"
+  },
+  "author": "Daryl O'Leary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DazzFazz/bta-spectre/issues"
+  },
+  "homepage": "https://github.com/DazzFazz/bta-spectre#readme"
+}
