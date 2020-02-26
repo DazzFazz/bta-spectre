@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/DazzFazz/bta-spectre/issues"
   },
-  "homepage": "https://github.com/DazzFazz/bta-spectre#readme"
+  "homepage": "https://github.com/DazzFazz/bta-spectre#readme",
+  "dependencies": {
+    "gulp-sass": "^4.0.2",
+    "spectre.css": "^0.5.8"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }

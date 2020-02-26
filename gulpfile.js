@@ -1,6 +1,6 @@
 function defaultTask(cb) {
-  // place code for your default task here
-  cb();
-}
+  console.log('task happening here');
+   cb();
+ }
 
-exports.default = defaultTask
+ exports.default = defaultTask
